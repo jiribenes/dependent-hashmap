@@ -7,7 +7,7 @@ cabal-version: 1.12
 -- hash: 947c96953451c1fce4ff0e4819043a180ad9f9ccef34475f4cb77afcfa716de7
 
 name:           dependent-hashmap
-version:        0.1.0.1
+version:        0.1.0.2
 synopsis:       Dependent hash maps
 description:    Provides @DHashMap@, a type for hash maps where the keys can specify the type of value that is associated with them.
 category:       Data
